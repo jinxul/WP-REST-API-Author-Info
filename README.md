@@ -18,6 +18,12 @@ And turns it into this:
 	},
 
 
+Credits
+=======
+
+[BraadMartin](https://github.com/BraadMartin) for [Better REST API Featured Images](https://github.com/BraadMartin/better-rest-api-featured-images)
+
+
 License
 =======
 
