@@ -55,6 +55,7 @@ function author_info_get_field( $object, $field_name ) {
 
 	$author['id']           	= $author_id;
 	$author['display_name']		= get_the_author_meta('display_name', $author_id);
+	$author['avatar_url']       = get_avatar_url($author_id);
 	
 	
 	return apply_filters( 'author_info', $author);
