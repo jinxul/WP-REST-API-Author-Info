@@ -5,8 +5,8 @@ Description: Getting Author's Display Name for each Post in REST API.
 Version:     1.0
 Author:      Ahmad Givekesh
 Author URI:  baboon.ir
-License:     GPL v3.0
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
+License:     Apache v2.0
+License URI: http://www.apache.org/licenses/LICENSE-2.0
 */
 
 
